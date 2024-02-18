@@ -1,4 +1,4 @@
-# Data_Analysis_with_R
+# Data Analysis with R
 ### Project Description
 This project is for the Udacity course R Programming. Here we use R to explore and analyze bikeshare data from different cities. We must ask and answer 3 different questions throughout our notebook.
 ### Environment(s)
