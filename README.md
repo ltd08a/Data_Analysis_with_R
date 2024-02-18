@@ -13,4 +13,5 @@ ggplot2
 2. Exploratory Data Analysis Application: Conduct exploratory data analysis.
 3. Interpret the Results of Exploratory Data Analysis: Predict an outcome based on the results of the exploratory data analysis.
 ### Files
-X
+Explore_bikeshare_data.ipynb: A notebook containing all of the code, visualizations, and reporting of this project.  
+README.md: A file describing the details of the project.
